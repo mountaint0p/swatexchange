@@ -1,4 +1,4 @@
-# Github repo for Worthmore: Swarthmore College's free store. 
+# Github repo for Swarthmore's Clothes Exchange.
 
 
 ## Getting Started with Create React App
